@@ -12,7 +12,13 @@
 ! 4) EN VS CODE I choouse SOURCE CONTROL icon in the LEFT BAR
 ! 5) I choose PUBLISH TO GITHUB
 ! 6) I choose PUBLISH TO PUBLIC OR
-!    PRIVATE REPOSITORY
+!    PRIVATE REPOSITORY and OK
+! 7) I click OPEN IN GITHUB button to verify content sync with the new in repository in GITHUB.COM
+
+
+- After the first comment using de the same SOURCE CONTROL icon I can make more
+- commits typing a message below repository name and hitting the COMMIT button 
+ 
 
 
 ``` 
