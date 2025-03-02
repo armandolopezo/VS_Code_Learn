@@ -19,6 +19,8 @@
 - After the first comment using de the same SOURCE CONTROL icon I can make more
 - commits typing a message below repository name and hitting the COMMIT button 
  
-
++ SHORTCUT: shift+end - to select text from the cursor to de end of the line
++ SHORTCUT: ctrl + s = SAVE
++ SHORTCUT: ctrl +shift + s = SAVE AS
 
 ``` 
